@@ -12,6 +12,6 @@
 
 ### License
 
-
+https://github.com/jpj01/Black-Splash-Screen/blob/main/LICENSE
 
 
